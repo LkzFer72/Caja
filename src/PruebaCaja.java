@@ -43,6 +43,7 @@ public class PruebaCaja {
 
         miCaja7.setDimensiones(5, 2, 3);
         miCaja7.getDimensiones();
+
         System.out.println("El volumen de la caja 7 es "+miCaja7.calcularVolumen());
     }
 }
