@@ -18,10 +18,16 @@ public class CajaPOO3 {
         this.alto= alto;
 
     }
-    private CajaPOO3(){
+    public CajaPOO3(){
         this.largo = 0;
         this.ancho = 0;
         this.alto= 0;
+
+    }
+    public void getDimensiones(){
+        System.out.println("El largo es "+largo+", el ancho es "+ancho+", el alto es "+alto);
+
+
 
     }
 
