@@ -18,7 +18,7 @@ public class CajaPOO3 {
         this.alto= alto;
 
     }
-    public CajaPOO3(){
+    private CajaPOO3(){
         this.largo = 0;
         this.ancho = 0;
         this.alto= 0;

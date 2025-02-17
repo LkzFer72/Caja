@@ -39,6 +39,7 @@ public class PruebaCaja {
         miCaja7.largo= 5;
         miCaja7.alto= 2;
         miCaja7.ancho= 3;
+        System.out.println("El largo es "+miCaja7.largo+", el ancho es "+miCaja7.ancho+", el alto es "+miCaja7.alto);
         System.out.println("El volumen de la caja 7 es "+miCaja7.calcularVolumen());
     }
 }
