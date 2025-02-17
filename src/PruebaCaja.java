@@ -36,6 +36,8 @@ public class PruebaCaja {
 
         //Ejemplo de variables public y private/
         CajaPOO3 miCaja7 = new CajaPOO3();
-
+        miCaja7.largo= 5;
+        miCaja7.alto= 2;
+        miCaja7.ancho= 3;
     }
 }
